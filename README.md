@@ -2,7 +2,7 @@
 
 **Program akan meminta kita untuk memasukkan jumlah karakter, karakter terakhir, karakter index ke-2 sampai index ke-4, teks tanpa spasi, teks dalam huruf besar, teks dalam huruf kecil :**
 
-![Output 1](Output1)
+![Output 1](Output1.png)
 
 **Penjelasan Code**
 
@@ -55,7 +55,7 @@ Output: Teks setelah mengganti H dengan J: Jello
 
 **Program akan meminta kita untuk memasukkan Hello, nama saya john, dan umur saya adalah 24 tahun:**
 
-![Output 2](Output2)
+![Output 2](Output2.png)
 
 **Penjelasan Code**
 
