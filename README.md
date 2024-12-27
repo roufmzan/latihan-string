@@ -6,7 +6,7 @@
 
 **Penjelasan Code**
 
-```
+ ```python
 txt = 'Hello World'
 
 # Hitung jumlah karakternya
@@ -59,7 +59,7 @@ Output: Teks setelah mengganti H dengan J: Jello
 
 **Penjelasan Code**
 
-```
+```python
 umur = 24
 txt = 'Hello, nama saya john, dan umur saya adalah {} tahun'
 
